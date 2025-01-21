@@ -1,5 +1,4 @@
-# Problem-Solving
-here is a Problem-Solving repository for Leet Code
+
 # Memoize function
 
 Given a function fn, return a memoized version of that function.
